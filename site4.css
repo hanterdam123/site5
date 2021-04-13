@@ -306,7 +306,7 @@
 
 .about_slider {
   max-width:1140px;
-  display:flex;
+  display:none;
   margin-top:70px;
   position:relative;
 }
