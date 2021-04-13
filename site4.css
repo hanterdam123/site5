@@ -199,6 +199,7 @@
   height:250px;
   background-size:cover;
   background-position:center top;
+  display:none;
 }
 .about_img3 {
   background:url('about_img3.png') no-repeat;
@@ -206,6 +207,7 @@
   height:250px;
   background-size:cover;
   background-position:center top;
+  display:none;
 }
 .about_img4 {
   background:url('about_img4.png') no-repeat;
@@ -213,6 +215,7 @@
   height:250px;
   background-size:cover;
   background-position:top center;
+  display:none;
 }
 /* Слайдер запущен */
 .slick-slider.slick-initialized{}
